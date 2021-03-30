@@ -1,8 +1,9 @@
 {
   "collectionName": "components_page_princing_boxes",
   "info": {
-    "name": "princingBox",
-    "icon": "dollar-sign"
+    "name": "pricingBox",
+    "icon": "dollar-sign",
+    "description": ""
   },
   "options": {},
   "attributes": {
